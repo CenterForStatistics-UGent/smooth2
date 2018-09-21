@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:D96FE568-BC85-4AC4-B468-2106C98EFB57</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-09-16T22:04:54+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:20C8FB8F-D443-41B1-83E9-4F0FB9E61177</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">20C8FB8F-D443-41B1-83E9-4F0FB9E61177</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2009-09-16T22:04:54.001+02:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4449DB47-A6D0-4FC7-9E9A-86D10EABE14E</id>
+  <title>Data</title>
+  <title xmlns="urn:iweb:">Data</title>
+  <in-navbar xmlns="urn:iweb:">4449DB47-A6D0-4FC7-9E9A-86D10EABE14E</in-navbar>
+  <link rel="alternate" href="Data.html"/>
+  <updated>2009-09-16T22:04:54.002+02:00</updated>
+  <content>Data</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E457F372-A60B-4A71-A7EC-395EAE528C00</id>
+  <title>Examples</title>
+  <title xmlns="urn:iweb:">Examples</title>
+  <in-navbar xmlns="urn:iweb:">E457F372-A60B-4A71-A7EC-395EAE528C00</in-navbar>
+  <link rel="alternate" href="Examples.html"/>
+  <updated>2009-09-16T22:04:54.003+02:00</updated>
+  <content>Examples</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:413039D8-6CAD-45B5-8D6B-3DAA5B5CECF8</id>
+  <title>R-Package</title>
+  <title xmlns="urn:iweb:">R-Package</title>
+  <in-navbar xmlns="urn:iweb:">413039D8-6CAD-45B5-8D6B-3DAA5B5CECF8</in-navbar>
+  <link rel="alternate" href="R-Package.html"/>
+  <updated>2009-09-16T22:04:54.004+02:00</updated>
+  <content>R-Package</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:37E4110A-D3DD-49F9-AEB2-2160BA670250</id>
+  <title>Contents</title>
+  <title xmlns="urn:iweb:">Contents</title>
+  <in-navbar xmlns="urn:iweb:">37E4110A-D3DD-49F9-AEB2-2160BA670250</in-navbar>
+  <link rel="alternate" href="Contents.html"/>
+  <updated>2009-09-16T22:04:54.005+02:00</updated>
+  <content>Contents</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B4B68302-9E02-417D-A450-BF8897590AF1</id>
+  <title>Related Projects</title>
+  <title xmlns="urn:iweb:">Related Projects</title>
+  <in-navbar xmlns="urn:iweb:">B4B68302-9E02-417D-A450-BF8897590AF1</in-navbar>
+  <link rel="alternate" href="Related_Projects.html"/>
+  <updated>2009-09-16T22:04:54.006+02:00</updated>
+  <content>Related Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B6E94912-5F99-4E13-A214-1E11D4D70ABA</id>
+  <title>Authors</title>
+  <title xmlns="urn:iweb:">Authors</title>
+  <in-navbar xmlns="urn:iweb:">B6E94912-5F99-4E13-A214-1E11D4D70ABA</in-navbar>
+  <link rel="alternate" href="Authors.html"/>
+  <updated>2009-09-16T22:04:54.007+02:00</updated>
+  <content>Authors</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:329EEB8F-B464-4EC9-BB65-C482C06B09B5</id>
+  <title>Errata</title>
+  <title xmlns="urn:iweb:">Errata</title>
+  <in-navbar xmlns="urn:iweb:">329EEB8F-B464-4EC9-BB65-C482C06B09B5</in-navbar>
+  <link rel="alternate" href="Errata.html"/>
+  <updated>2009-09-16T22:04:54.008+02:00</updated>
+  <content>Errata</content>
+ </entry>
+</feed>
